@@ -1,3 +1,5 @@
+package lw01.prelab;
+
 public class ColourPrint extends PrintJob {
     private static final int FIRST_TIER_PAGES = 10;
     private static final int FIRST_TIER_RATE = 1500;

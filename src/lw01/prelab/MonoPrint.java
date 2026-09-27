@@ -1,3 +1,5 @@
+package lw01.prelab;
+
 public class MonoPrint extends PrintJob {
     private static final int RATE_PER_PAGE = 500;
 
